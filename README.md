@@ -1,2 +1,3 @@
 # protein-seq-utils
-analyzing protein sequence
+
+Utility functions for protein sequence analysis.
